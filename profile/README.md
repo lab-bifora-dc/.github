@@ -1,4 +1,4 @@
-# Le LAB — Laboratoire d'Innovation
+# Le LAB - Laboratoire d'Innovation
 
 > L'entité d'innovation stratégique de **BIFORA**, conçue pour soutenir, structurer et accélérer le développement de nos produits internes et de nos offres consulting.
 
@@ -23,6 +23,7 @@ En résumé : **le Lab est le carburant de l'innovation chez BIFORA.**
 | **CRA** | [Teams - CRA](https://github.com/orgs/lab-bifora-dc/teams/cra-devs) |
 | **GSB** | [Teams - GSB](https://github.com/orgs/lab-bifora-dc/teams/gsb-dev) |
 | **Site Web Bifora** | [Teams - Site Bifora](https://github.com/orgs/lab-bifora-dc/teams/siteweb-bifora-devs) |
+| **BiforaLink (ex-GSB) | [Teams - BiforaLink](https://github.com/orgs/lab-bifora-dc/teams/biforalink) |
 
 ### Projets secondaires
 
@@ -54,7 +55,7 @@ En résumé : **le Lab est le carburant de l'innovation chez BIFORA.**
 | Andrei | `[À COMPLÉTER]` |
 | Oumar | `[À COMPLÉTER]` |
 | Mouna | `[À COMPLÉTER]` |
-| Naguib | `[À COMPLÉTER]` |
+| Naguib | DevSecOps & référent Cyber |
 | Équipe de devs | `[À COMPLÉTER]` |
 
 ---
