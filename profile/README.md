@@ -23,7 +23,7 @@ En résumé : **le Lab est le carburant de l'innovation chez BIFORA.**
 | **CRA** | [Teams - CRA](https://github.com/orgs/lab-bifora-dc/teams/cra-devs) |
 | **GSB** | [Teams - GSB](https://github.com/orgs/lab-bifora-dc/teams/gsb-dev) |
 | **Site Web Bifora** | [Teams - Site Bifora](https://github.com/orgs/lab-bifora-dc/teams/siteweb-bifora-devs) |
-| **BiforaLink (ex-GSB) | [Teams - BiforaLink](https://github.com/orgs/lab-bifora-dc/teams/biforalink) |
+| **BiforaLink (ex-GSB)** | [Teams - BiforaLink](https://github.com/orgs/lab-bifora-dc/teams/biforalink) |
 
 ### Projets secondaires
 
